@@ -5,7 +5,7 @@ metadata:
   namespace: tkgs2-spring-dev-team-ns
 spec:
   distribution:
-    version: v1.19  #Resolves to the latest v1.19 image 
+    version: v1.20  #Resolves to the latest v1.19 image 
   topology:
     controlPlane:
       count: 1                                 #number of control plane nodes
